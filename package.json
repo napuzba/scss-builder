@@ -1,0 +1,19 @@
+{
+  "name": "scss-builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "napuzba",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.24.5",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-copy": "^1.1.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-sass": "^4.0.1"
+  },
+  "dependencies": {}
+}
